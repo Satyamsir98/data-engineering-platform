@@ -1,0 +1,4 @@
+name,amount,date,name_upper,amount_round,name_length,combined
+john,100.567,2024-01-01,JOHN,100.6,4,john 100.567
+alice,200.345,2024-02-01,ALICE,200.3,5,alice 200.345
+bob,150.999,2024-03-05,BOB,151.0,3,bob 150.999

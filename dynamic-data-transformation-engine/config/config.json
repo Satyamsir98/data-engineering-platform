@@ -1,0 +1,23 @@
+[
+  {
+    "type": "upper",
+    "columns": ["name"],
+    "output_column": "name_upper"
+  },
+  {
+    "type": "round",
+    "columns": ["amount"],
+    "params": 1,
+    "output_column": "amount_round"
+  },
+  {
+    "type": "length",
+    "columns": ["name"],
+    "output_column": "name_length"
+  },
+  {
+    "type": "concat",
+    "columns": ["name", "amount"],
+    "output_column": "combined"
+  }
+]
