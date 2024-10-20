@@ -1,0 +1,10 @@
+[
+    {
+        "table": "customers",
+        "ddl": "CREATE TABLE customers (id INT, name TEXT);"
+    },
+    {
+        "table": "orders",
+        "ddl": "CREATE TABLE orders (id INT, name TEXT);"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "customers",
+        "Table Exists",
+        "Success"
+    ],
+    [
+        "customers",
+        "Column Compare",
+        "Success"
+    ],
+    [
+        "customers",
+        "Primary Key",
+        "Success"
+    ],
+    [
+        "customers",
+        "Foreign Key",
+        "Success"
+    ],
+    [
+        "orders",
+        "Table Exists",
+        "Success"
+    ],
+    [
+        "orders",
+        "Column Compare",
+        "Success"
+    ],
+    [
+        "orders",
+        "Primary Key",
+        "Success"
+    ],
+    [
+        "orders",
+        "Foreign Key",
+        "Success"
+    ]
+]

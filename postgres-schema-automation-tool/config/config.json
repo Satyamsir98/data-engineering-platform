@@ -1,0 +1,5 @@
+{
+  "tables": ["customers", "orders"],
+  "source_schema": "public",
+  "target_schema": "public"
+}
