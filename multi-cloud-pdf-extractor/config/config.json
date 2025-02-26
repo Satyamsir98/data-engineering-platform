@@ -1,0 +1,4 @@
+{
+  "cloud": "azure", 
+  "input_file": "data/sample.txt"
+}  

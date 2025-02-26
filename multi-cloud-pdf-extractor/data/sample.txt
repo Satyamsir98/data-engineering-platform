@@ -1,0 +1,5 @@
+Item    Price    Qty
+Apple   10       2
+Banana  5        5
+Milk    20       1
+Total   75
