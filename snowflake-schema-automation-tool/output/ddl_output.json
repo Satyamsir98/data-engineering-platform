@@ -1,0 +1,10 @@
+[
+    {
+        "table_name": "CUSTOMERS",
+        "ddl": "\n    CREATE TABLE CUSTOMERS (\n        ID INT,\n        NAME STRING\n    );\n    "
+    },
+    {
+        "table_name": "ORDERS",
+        "ddl": "\n    CREATE TABLE ORDERS (\n        ID INT,\n        NAME STRING\n    );\n    "
+    }
+]

@@ -1,0 +1,5 @@
+{
+  "source_tables": ["CUSTOMERS", "ORDERS"],
+  "source_schema": "PUBLIC",
+  "target_schema": "PUBLIC"
+}
