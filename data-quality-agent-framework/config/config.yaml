@@ -1,0 +1,20 @@
+app:
+  name: data-quality-agent
+  version: 1.0
+
+cloud:
+  default: aws
+  aws:
+    bucket: mock-bucket
+    base_path: s3://mock-bucket/data-quality/
+  azure:
+    container: mock-container
+    base_path: abfs://mock-container@mockaccount.dfs.core.windows.net/data-quality/
+
+api:
+  endpoint: http://mock-api/process
+  timeout: 5
+
+job:
+  retries: 2
+  log_level: INFO
