@@ -1,0 +1,8 @@
+# PySpark used in real Databricks environment
+pyspark
+
+# YAML config handling
+pyyaml
+
+# Pandas used for local simulation
+pandas

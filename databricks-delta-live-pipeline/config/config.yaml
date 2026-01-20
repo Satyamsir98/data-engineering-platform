@@ -1,0 +1,11 @@
+app:
+  name: databricks-delta-pipeline
+
+data:
+  input_path: data/user_activity.csv
+  bronze_table: bronze_user_activity
+  silver_table: silver_user_activity
+  gold_table: gold_user_metrics
+
+delta:
+  mode: overwrite
