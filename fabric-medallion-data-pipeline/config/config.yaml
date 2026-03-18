@@ -1,0 +1,9 @@
+app:
+  name: fabric-medallion-pipeline
+
+paths:
+  input: data/raw_sales_data.csv
+
+  bronze: output/bronze/bronze_sales.csv
+  silver: output/silver/silver_sales.csv
+  gold: output/gold/gold_sales_metrics.csv
