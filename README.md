@@ -1,4 +1,4 @@
-# ⚙️ Data Engineering Projects
+# ⚙️ Data Engineering Platform
 
 ## 📌 Overview
 
