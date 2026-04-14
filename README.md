@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains a collection of work in production data engineering platforms covering end-to-end data pipelines, multi-cloud processing, schema automation, and data quality systems.
+This repository contains a collection of my work in production data engineering platforms covering end-to-end data pipelines, multi-cloud processing, schema automation, and data quality systems.
 
 These projects demonstrate real-world data engineering practices including ETL/ELT pipelines, distributed processing, and scalable data architectures.
 
